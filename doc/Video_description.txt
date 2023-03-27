@@ -1,0 +1,1 @@
+The program captures the image data of the onboard camera of RB1 device in real time, and converts the real-time image data into the corresponding style image according to the style characteristics of the prefabricated image. The original image and style image are provided in the project for easy differentiation.
