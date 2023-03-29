@@ -11,7 +11,7 @@ a.Quickly build AP WIFI through command line tools.
 b.Using MediaServer tool and start up the push stream server.
 c.Run gst_selfy_test to complete camera data acquisition, selfy segment algorithm inference, and appsrc push to the local port of device.
 d.The MediaServer stream server generates the RTSP stream.
-e.The mobile connects to QRB2210 AP wifi and plays RTSP streams  for show depth estimation result by EasyPlayer.
+e.The mobile connects to QRB2210 AP wifi and plays RTSP streams  for show artistic style transfer result by EasyPlayer.
 
 Qualcomm® QRB2210 SoC Open Kits
 
